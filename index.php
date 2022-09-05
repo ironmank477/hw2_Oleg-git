@@ -1,6 +1,6 @@
 <?php
 
-echo "test project";
+echo "test project__";
 //sdsds
 //dfdfddddd
 //phpinfo();
